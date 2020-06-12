@@ -1,0 +1,11 @@
+{
+  "name": "habit-breaker-woooooo",
+  "version": "0.0.1",
+  "description": "A shitpost basically",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Arjun Raju Pillai <revarjunr@gmail.com>",
+  "license": "ISC"
+}
