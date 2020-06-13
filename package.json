@@ -4,8 +4,20 @@
   "description": "A shitpost basically",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "dev": "parcel src/index.html",
+    "build": "parcel build src/index.html"
   },
   "author": "Arjun Raju Pillai <revarjunr@gmail.com>",
-  "license": "ISC"
+  "license": "ISC",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/arjunepr/habit-breaker-woooooo"
+  },
+  "devDependencies": {
+    "parcel-bundler": "^1.12.4",
+    "sass": "^1.26.8",
+    "typescript": "^3.9.5"
+  },
+  "dependencies": {}
 }
